@@ -1,3 +1,3 @@
 # Recipe Book
 
-This is going to be my first project with The Odin Project. It is currently only using HTML.
+This is going to be my first project with The Odin Project. This time, I've added some CSS.
